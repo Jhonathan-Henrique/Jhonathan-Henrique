@@ -7,13 +7,11 @@ From front-end development to mobile development, I am passionate about discover
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Jhonathan-Henrique&theme=radical&mode=weekly" />
-
+<img width=40% height="90%" align="center" src="https://github-readme-stats.vercel.app/api?username=Jhonathan-Henrique&show_icons=true&theme=radical" />
  </div>
- ![Jhonathan GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhonathan-Henrique&show_icons=true&theme=radical)
  
  &nbsp;
  &nbsp;
-
 
 
 ## My Skills
