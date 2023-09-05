@@ -6,7 +6,7 @@
 From front-end development to mobile development, I am passionate about discovering new things and using them to create high-quality solutions. Today, I am a junior-level full-stack developer focused on web and mobile development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Jhonathan-Henrique&theme=radical&mode=weekly" />
+<img width=40% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Jhonathan-Henrique&theme=radical&card_width=500)](https://git.io/streak-stats)" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Jhonathan-Henrique&show_icons=true&theme=radical&layout=compact" />
  </div>
  
