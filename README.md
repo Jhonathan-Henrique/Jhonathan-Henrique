@@ -7,7 +7,7 @@ From front-end development to mobile development, I am passionate about discover
 
 <div  align="center" style="margin-bottom:100px">
 <img width=40% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Jhonathan-Henrique&theme=radical&card_width=500)](https://git.io/streak-stats)" />
-<img width=29% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonathan-Henrique&show_icons=true&theme=radical&layout=compact" />
+<img width=29% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonathan-Henrique&layout=compact&theme=radical" />
  </div>
  
  &nbsp;
